@@ -1,0 +1,3 @@
+interface ErAdministrator {
+    String finnAnsvar();
+}
